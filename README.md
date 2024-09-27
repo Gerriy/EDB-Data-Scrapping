@@ -14,7 +14,7 @@ Target site (root site): https://www.edb.gov.hk/en/student-parents/sch-info/sch-
 5. openpyxl
 
 **Issues:**
-To be tested
+1. School duplication (due to duplicated records in source html as some school may have multiple campus sites)
 
 **Planned Function:**
 1. Recursive scrapping of 18 districts school list from the root site
