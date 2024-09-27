@@ -4,7 +4,7 @@ This repository assists data scrapping from HK EDB website
 Target site (root site): https://www.edb.gov.hk/en/student-parents/sch-info/sch-search/schlist-by-district
 
 **Usage:**
-1. Run the notebook Parser.py directly to obtain a school list in excel format
+1. Run the notebook Parser.ipynb directly to obtain a school list in excel format
 
 **Requirements:**
 1. python3
